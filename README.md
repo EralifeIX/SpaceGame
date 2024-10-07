@@ -45,4 +45,4 @@ The project is developed using:
 - **Escape** — pause
 
 ## Screenshots
-(Add some screenshots of your game here)
+-------------------------------------------------------------------------------------------------------------------------------------------------

@@ -46,5 +46,5 @@ The project is developed using:
 
 ## Screenshots
 
-[screenshots/image1.png]
-[screenshots/image2.png]
+![image1][screenshots/image1.png]
+![image2][screenshots/image2.png]

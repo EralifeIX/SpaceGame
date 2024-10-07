@@ -45,4 +45,6 @@ The project is developed using:
 - **Escape** — pause
 
 ## Screenshots
-(Add some screenshots of your game here)
+
+[screenshots/image1.png]
+[screenshots/image2.png]

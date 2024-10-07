@@ -46,5 +46,5 @@ The project is developed using:
 
 ## Screenshots
 
-![image1][screenshots/image1.png]
-![image2][screenshots/image2.png]
+![Image alt](https://github.com//EralifeIX/SpaceGame/main/screenshots/image1.png)
+![Image alt](https://github.com//EralifeIX/SpaceGame/main/screenshots/image2.png)
